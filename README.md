@@ -1,4 +1,4 @@
-# Kanisa la Neema — Outreach Community Church
+# Kanisa la Neema
 
 A modern, full-featured church landing page built with **React 18**, **Vite**, **Tailwind CSS**, and **Lucide React**.
 
@@ -12,25 +12,6 @@ A modern, full-featured church landing page built with **React 18**, **Vite**, *
 - Smooth scroll reveal animations & golden pulse effects
 - Cormorant Garamond + Nunito typography
 
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173)
-
-## 🏗️ Build for Production
-
-```bash
-npm run build
-npm run preview
-```
-
-## ☁️ Deploy to Vercel
-
-Push to GitHub, then import on [vercel.com](https://vercel.com) — `vercel.json` is already configured.
 
 ## 📞 Contact
 
